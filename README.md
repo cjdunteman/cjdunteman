@@ -1,6 +1,12 @@
 # Hi, I'm CJ :us:
 
-I am a student at UW - Madison studying Computer Science.
+I am currently a student at UW - Madison studying Computer Science. I'm always trying to learn about new technologies and improve my skills. Check out my website at [cjdunteman.com](http://www.cjdunteman.com/).
+
+## A Bit About Me
+
+- I have a strong passion for security and privacy
+- I love learning new programming languages, frameworks, and tools
+- I am a big supporter of FOSS! Here's a great list of FOSS projects: [OhMyFOSS](https://github.com/cjdunteman/ohmyfoss)
 
 ## My Tech Stack / Skills
 
