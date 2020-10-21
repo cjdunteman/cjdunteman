@@ -15,6 +15,9 @@ I am a student at UW - Madison studying Computer Science.
     <td>
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"
     </td>
+    <td>
+      <img src="/assets/c-programming.svg">
+    </td>
   </tr>
     <tr>
       <td>
