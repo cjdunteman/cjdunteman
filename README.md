@@ -15,6 +15,9 @@ I am a student at UW - Madison studying Computer Science.
     <td>
       <img src="/assets/c-programming.svg" width="100" height="50">
     </td>
+    <td>
+      <img src="/assets/cpp_logo.svg" width="100" height="50">
+    </td>
   </tr>
   <tr>
     <td>
