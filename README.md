@@ -1,6 +1,6 @@
 # Hi, I'm CJ :us:
 
-I am a student at UW - Madison studying Computer Science. 
+I am a student at UW - Madison studying Computer Science.
 
 ## My Tech Stack / Skills
 
