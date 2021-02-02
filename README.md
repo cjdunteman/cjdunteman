@@ -6,7 +6,7 @@ I am currently a student at UW - Madison studying Computer Science. I'm always t
 
 - I have a strong passion for security and privacy
 - I love learning new programming languages, frameworks, and tools
-- I am a big supporter of FOSS! Here's a great list of FOSS projects: [OhMyFOSS](https://github.com/cjdunteman/ohmyfoss)
+- I am a big supporter of open-source software
 
 ## My Tech Stack / Skills
 
