@@ -5,8 +5,8 @@ I am currently a student at UW - Madison studying Computer Science. I'm always t
 ## A Bit About Me
 
 - I have a strong passion for security and privacy
-- I love learning new programming languages, frameworks, and tools
-- I am a big supporter of open-source software
+- I'm also interested in stocks and finance
+- If I'm not at my computer, I'd like to be skiing 🎿
 
 ## My Tech Stack / Skills
 
