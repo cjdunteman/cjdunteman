@@ -2,8 +2,8 @@
 
 Find me online:
 <p>
-  <a href="https://www.twitter.com/cjdunteman" target="blank"><img align="center" src="https://github.com/cjdunteman/cjdunteman/blob/master/assets/twitter.png" alt="" height="30"></a>
-  <a href="https://www.linkedin.com/in/cjdunteman" target="blank"><img align="center" src="https://github.com/cjdunteman/cjdunteman/blob/master/assets/linkedin.png" alt="" height="30"></a></p>
+  <a href="https://www.twitter.com/cjdunteman" target="blank"><img align="center" src="https://github.com/cjdunteman/cjdunteman/blob/master/twitter.png" alt="" height="30"></a>
+  <a href="https://www.linkedin.com/in/cjdunteman" target="blank"><img align="center" src="https://github.com/cjdunteman/cjdunteman/blob/master/linkedin.png" alt="" height="30"></a></p>
 
 I am currently a student at UW - Madison studying Computer Science. I'm always trying to learn about new technologies and improve my skills. Check out my website at [cjdunteman.com](http://www.cjdunteman.com/).
 
