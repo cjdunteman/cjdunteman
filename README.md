@@ -6,4 +6,9 @@
 
 I am currently a student at UW - Madison studying Computer Science. I'm always trying to learn about new technologies and improve my skills. Check out my website at [cjdunteman.com](http://www.cjdunteman.com/).
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cjdunteman&theme=dark&ring=C5050C&fire=C5050C&currStreakLabel=C5050C)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjdunteman" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdunteman&layout=compact&exclude_repo=cs220&hide=html" />
+</a>
