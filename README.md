@@ -7,7 +7,7 @@
 I'm always trying to learn about new technologies and improve my skills. Check out my website at [cjdunteman.com](https://cjdunteman.com/).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjdunteman" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cjdunteman&exclude_repo=egg" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdunteman&layout=compact&exclude_repo=cs220&hide=html" />
